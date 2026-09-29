@@ -40,6 +40,17 @@ Cap discounts below 40%.
 BW-11110 ($30.6K lifetime spend, 55 days since last order), a clear
 re-engagement target.
 
+## Dashboard Preview 
+![Overview](dashboard/screenshots/page1.png) 
+![Category](dashboard/screenshots/page2.png) 
+![Geographic](dashboard/screenshots/page3.png) 
+![Discount](dashboard/screenshots/page4.png) 
+![RFM](dashboard/screenshots/page5.png) 
+
+Full export: [dashboard PDF](dashboard/Future_Interns_Task1.pdf). Interactive file: `dashboard/Task1.pbix` (open in Power BI Desktop).
+
+
+
 ## Repository Structure
 - dashboard/: .pbix, PDF, screenshots
 - scripts/: Colab notebook
